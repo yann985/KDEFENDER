@@ -17,7 +17,7 @@ MonoBehaviour:
     rid: 331920137992798404
   shapeSearcher:
     rid: 331920137992798405
-  turretSprite: {fileID: 1718162705395993387, guid: 3736693747991f546a312ba163e9ef22, type: 3}
+  turretSprite: {fileID: -5412910156287300836, guid: fc029e0f2b04a2c4cb07a6ce78445af7, type: 3}
   references:
     version: 2
     RefIds:
